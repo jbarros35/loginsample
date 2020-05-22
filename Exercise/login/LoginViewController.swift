@@ -36,7 +36,6 @@ class LoginViewController: UIViewController {
     @IBAction func resetAction(_ sender: Any) {
         self.userNameTxt.text = nil
         self.passwordTxt.text = nil
-        self.userNameTxt.becomeFirstResponder()
     }
     
     /// Do login validates against DB
@@ -70,6 +69,7 @@ class LoginViewController: UIViewController {
     /// - Parameter segue: <#segue description#>
     @IBAction func unwindLogin(_ segue: UIStoryboardSegue) {
         self.resetAction("")
+        self.userNameTxt.becomeFirstResponder()
     }
     
 }
