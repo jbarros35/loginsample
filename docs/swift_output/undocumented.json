@@ -1,0 +1,1006 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/AppDelegate.swift",
+      "line": 14,
+      "symbol": "log",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/AppDelegate.swift",
+      "line": 44,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/AppDelegate.swift",
+      "line": 48,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/AppDelegate.swift",
+      "line": 56,
+      "symbol": "AppDelegate.application(_:configurationForConnecting:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/AppDelegate.swift",
+      "line": 62,
+      "symbol": "AppDelegate.application(_:didDiscardSceneSessions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/AppDelegate.swift",
+      "line": 70,
+      "symbol": "AppDelegate.persistentContainer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/AppDelegate.swift",
+      "line": 99,
+      "symbol": "AppDelegate.saveContext()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/SceneDelegate.swift",
+      "line": 11,
+      "symbol": "SceneDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/SceneDelegate.swift",
+      "line": 13,
+      "symbol": "SceneDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/SceneDelegate.swift",
+      "line": 16,
+      "symbol": "SceneDelegate.scene(_:willConnectTo:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/SceneDelegate.swift",
+      "line": 24,
+      "symbol": "SceneDelegate.sceneDidDisconnect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/SceneDelegate.swift",
+      "line": 31,
+      "symbol": "SceneDelegate.sceneDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/SceneDelegate.swift",
+      "line": 36,
+      "symbol": "SceneDelegate.sceneWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/SceneDelegate.swift",
+      "line": 41,
+      "symbol": "SceneDelegate.sceneWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/SceneDelegate.swift",
+      "line": 46,
+      "symbol": "SceneDelegate.sceneDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/ViewController.swift",
+      "line": 12,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/ViewController.swift",
+      "line": 14,
+      "symbol": "ViewController.repository",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/ViewController.swift",
+      "line": 18,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/ViewController.swift",
+      "line": 23,
+      "symbol": "ViewController.loadLoginView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/ViewController.swift",
+      "line": 34,
+      "symbol": "ViewController.populateDataBase()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/SwiftMessagesHelper.swift",
+      "line": 11,
+      "symbol": "messages",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/SwiftMessagesHelper.swift",
+      "line": 13,
+      "symbol": "SwiftMessagesHelper",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/SwiftMessagesHelper.swift",
+      "line": 15,
+      "symbol": "SwiftMessagesHelper.titles",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/SwiftMessagesHelper.swift",
+      "line": 16,
+      "symbol": "SwiftMessagesHelper.titles.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/SwiftMessagesHelper.swift",
+      "line": 17,
+      "symbol": "SwiftMessagesHelper.titles.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/SwiftMessagesHelper.swift",
+      "line": 18,
+      "symbol": "SwiftMessagesHelper.titles.warning",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/SwiftMessagesHelper.swift",
+      "line": 19,
+      "symbol": "SwiftMessagesHelper.titles.information",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState+Format.swift",
+      "line": 14,
+      "symbol": "TableState.format",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 12,
+      "symbol": "TableState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 12,
+      "symbol": "TableState",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 14,
+      "symbol": "TableState.noInternet",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 15,
+      "symbol": "TableState.unknownError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 16,
+      "symbol": "TableState.authError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 17,
+      "symbol": "TableState.noUser",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 19,
+      "symbol": "TableState.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 28,
+      "symbol": "TableState.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 37,
+      "symbol": "TableState.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/helper/TableState.swift",
+      "line": 46,
+      "symbol": "TableState.titleButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/login/LoginViewController.swift",
+      "line": 11,
+      "symbol": "LoginViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/login/LoginViewController.swift",
+      "line": 22,
+      "symbol": "LoginViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/login/LoginViewController.swift",
+      "line": 24,
+      "symbol": "LoginViewController.userNameTxt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/login/LoginViewController.swift",
+      "line": 25,
+      "symbol": "LoginViewController.passwordTxt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/login/LoginViewController.swift",
+      "line": 27,
+      "symbol": "LoginViewController.repository",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/login/LoginViewController.swift",
+      "line": 31,
+      "symbol": "LoginViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/login/LoginViewController.swift",
+      "line": 36,
+      "symbol": "LoginViewController.resetAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/login/LoginViewController.swift",
+      "line": 63,
+      "symbol": "LoginViewController.loadMainScreen()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 13,
+      "symbol": "UserDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 23,
+      "symbol": "UserDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 25,
+      "symbol": "UserDetailViewController.containerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 26,
+      "symbol": "UserDetailViewController.emailLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 27,
+      "symbol": "UserDetailViewController.nameLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 28,
+      "symbol": "UserDetailViewController.userNameLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 29,
+      "symbol": "UserDetailViewController.streetLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 30,
+      "symbol": "UserDetailViewController.suiteLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 31,
+      "symbol": "UserDetailViewController.cityLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 32,
+      "symbol": "UserDetailViewController.zipCodeLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 33,
+      "symbol": "UserDetailViewController.map",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 34,
+      "symbol": "UserDetailViewController.phoneLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 35,
+      "symbol": "UserDetailViewController.websiteLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 36,
+      "symbol": "UserDetailViewController.companyNameLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 37,
+      "symbol": "UserDetailViewController.catchPhraseLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 38,
+      "symbol": "UserDetailViewController.companyBsLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 40,
+      "symbol": "UserDetailViewController.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 46,
+      "symbol": "UserDetailViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 54,
+      "symbol": "UserDetailViewController.userSelect()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UserDetailViewController.swift",
+      "line": 81,
+      "symbol": "UserDetailViewController.logout()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 11,
+      "symbol": "UsersListTableViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 13,
+      "symbol": "UsersListTableViewController.service",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 17,
+      "symbol": "UsersListTableViewController.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 19,
+      "symbol": "UsersListTableViewController.spinner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 21,
+      "symbol": "UsersListTableViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 26,
+      "symbol": "UsersListTableViewController.loadUsers()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 43,
+      "symbol": "UsersListTableViewController.createSpinnerView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 51,
+      "symbol": "UsersListTableViewController.removeSpinnerView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 63,
+      "symbol": "UsersListTableViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 67,
+      "symbol": "UsersListTableViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 72,
+      "symbol": "UsersListTableViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 80,
+      "symbol": "UsersListTableViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersListTableViewController.swift",
+      "line": 86,
+      "symbol": "UsersListTableViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersMasterDetailViewController.swift",
+      "line": 11,
+      "symbol": "UsersMasterDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersMasterDetailViewController.swift",
+      "line": 14,
+      "symbol": "UsersMasterDetailViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/users/UsersMasterDetailViewController.swift",
+      "line": 20,
+      "symbol": "UsersMasterDetailViewController.splitViewController(_:collapseSecondary:onto:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 32,
+      "symbol": "Router.users",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 33,
+      "symbol": "Router.wrongPath",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 57,
+      "symbol": "Method.GET",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 58,
+      "symbol": "Method.PUT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 59,
+      "symbol": "Method.POST",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 60,
+      "symbol": "Method.DELETE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 79,
+      "symbol": "RESTError.BadRequest(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 80,
+      "symbol": "RESTError.InternalError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 81,
+      "symbol": "RESTError.UnAuthorized(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 82,
+      "symbol": "RESTError.NotFound(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 83,
+      "symbol": "RESTError.Success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 123,
+      "symbol": "RESTClient.Parameters",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 124,
+      "symbol": "RESTClient.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 126,
+      "symbol": "RESTClient.header",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 127,
+      "symbol": "RESTClient.preValidation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 128,
+      "symbol": "RESTClient.refreshToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 129,
+      "symbol": "RESTClient.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 130,
+      "symbol": "RESTClient.serverEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/RESTClient.swift",
+      "line": 133,
+      "symbol": "RESTClient.timeOut",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/SpinnerViewController.swift",
+      "line": 11,
+      "symbol": "SpinnerViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/SpinnerViewController.swift",
+      "line": 12,
+      "symbol": "SpinnerViewController.spinner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/SpinnerViewController.swift",
+      "line": 14,
+      "symbol": "SpinnerViewController.loadView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserRepository.swift",
+      "line": 12,
+      "symbol": "UserRepository",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserRepository.swift",
+      "line": 24,
+      "symbol": "UserRepositoryImpl",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserRepository.swift",
+      "line": 26,
+      "symbol": "UserRepositoryImpl.appDelegateObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserRepository.swift",
+      "line": 27,
+      "symbol": "UserRepositoryImpl.context",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserRepository.swift",
+      "line": 28,
+      "symbol": "UserRepositoryImpl.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserRepository.swift",
+      "line": 30,
+      "symbol": "UserRepositoryImpl.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserService.swift",
+      "line": 11,
+      "symbol": "UserService",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserService.swift",
+      "line": 19,
+      "symbol": "UserServiceImpl",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserService.swift",
+      "line": 21,
+      "symbol": "UserServiceImpl.restClient",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserService.swift",
+      "line": 22,
+      "symbol": "UserServiceImpl.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/UserService.swift",
+      "line": 24,
+      "symbol": "UserServiceImpl.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 18,
+      "symbol": "DeviceType.pad",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 19,
+      "symbol": "DeviceType.phone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 20,
+      "symbol": "DeviceType.undefined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 26,
+      "symbol": "Utils.birthDate",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 27,
+      "symbol": "Utils.timeDisplay",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 28,
+      "symbol": "Utils.jsonDate",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 38,
+      "symbol": "Utils.getDocumentsDirectory()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 72,
+      "symbol": "String.toColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/Utils.swift",
+      "line": 78,
+      "symbol": "MKMapView.centerToLocation(_:regionRadius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 26,
+      "symbol": "UserModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 28,
+      "symbol": "UserModel.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 29,
+      "symbol": "UserModel.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 30,
+      "symbol": "UserModel.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 31,
+      "symbol": "UserModel.email",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 32,
+      "symbol": "UserModel.address",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 33,
+      "symbol": "UserModel.phone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 34,
+      "symbol": "UserModel.website",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 35,
+      "symbol": "UserModel.company",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 49,
+      "symbol": "Address",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 51,
+      "symbol": "Address.street",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 52,
+      "symbol": "Address.suite",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 53,
+      "symbol": "Address.city",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 54,
+      "symbol": "Address.zipcode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 55,
+      "symbol": "Address.geo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 66,
+      "symbol": "Company",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 68,
+      "symbol": "Company.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 69,
+      "symbol": "Company.catchPhrase",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/josebarros/Documents/Exercise/Exercise/utility/models/UserModel.swift",
+      "line": 70,
+      "symbol": "Company.bs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/josebarros/Documents/Exercise"
+}

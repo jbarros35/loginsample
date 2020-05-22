@@ -1,0 +1,1 @@
+jazzy   --clean   --author JoseBarros   --xcodebuild-arguments -workspace,Exercise.xcworkspace,-scheme,Exercise   --output docs/swift_output
